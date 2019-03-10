@@ -1,0 +1,59 @@
+/*
+Theme Name: Functions Theme
+Author: Websupporter
+Author URI: https://websupporter.net/
+License: GNU General Public License v2 or later
+*/
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+}
+header, main {
+    display: block;
+    max-width: 980px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+main {
+    padding: 3rem;
+}
+
+/*Farbpalette*/
+.has-red-color { color: #f00; }
+.has-red-background-color { background: #f00; }
+.has-black-color { color: #000; }
+.has-black-background-color { background: #000; }
+.has-green-color { color: #0f0; }
+.has-green-background-color { background: #0f0; }
+.has-blue-color { color: #00f; }
+.has-blue-background-color { background: #00f; }
+
+/*Align wide + full*/
+.alignwide {
+    margin-left:    calc(25% - 25vw);
+    margin-right:   calc(25% - 25vw);
+    width:          auto;
+    max-width:      1000%;
+}
+
+.alignfull {
+    margin-left:    calc(50% - 50vw);
+    margin-right:   calc(50% - 50vw);
+    max-width:      1000%;
+    width:          100vw;
+}
+
+/* Schriftgroessen */
+.has-klein-font-size {
+    font-size: 10px;
+}
+.has-normal-font-size {
+    font-size: 16px;
+}
+.has-gross-font-size {
+    font-size: 36px;
+}

@@ -1,0 +1,5 @@
+upgrade/
+uploads/
+languages/
+node_modules/*
+vendor/*

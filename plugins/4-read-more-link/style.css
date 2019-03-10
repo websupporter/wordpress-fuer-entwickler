@@ -1,0 +1,8 @@
+.read_more_title{
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.read_more_body{
+    display: none;
+}

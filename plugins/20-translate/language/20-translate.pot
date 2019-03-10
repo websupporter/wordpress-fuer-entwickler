@@ -1,0 +1,35 @@
+# Copyright (C) 2019 Websupporter
+# This file is distributed under the same license as the Übersetzbares Plugin plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Übersetzbares Plugin\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/20-translate\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-30T09:52:47+02:00\n"
+"PO-Revision-Date: 2019-01-30T09:52:47+02:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: 20-translate\n"
+
+#. Plugin Name of the plugin
+msgid "Übersetzbares Plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Websupporter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://websupporter.net"
+msgstr ""
+
+#: strings.php:2
+msgid "Translate this."
+msgstr ""
+
+#: localize-script.php:9
+msgid "Hello world!"
+msgstr ""
